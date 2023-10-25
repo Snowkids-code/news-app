@@ -1,0 +1,1484 @@
+[
+  {
+    "section": "us",
+    "subsection": "politics",
+    "title": "Next Speaker Vote Is Expected in Hours in a Leaderless House",
+    "abstract": "Representative Mike Johnson of Louisiana is the fourth Republican nominee for speaker, but it’s unclear if he can win the chair after the three before him failed because of G.O.P. infighting.",
+    "url": "https://www.nytimes.com/2023/10/25/us/politics/house-republicans-speaker.html",
+    "uri": "nyt://article/90dc3082-5346-5cc1-9efc-0ce39cfdd569",
+    "byline": "By Carl Hulse",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T09:27:34-04:00",
+    "created_date": "2023-10-25T05:04:03-04:00",
+    "published_date": "2023-10-25T05:04:03-04:00",
+    "material_type_facet": "",
+    "kicker": "Congressional memo",
+    "des_facet": [
+      "United States Politics and Government",
+      "Conservatism (US Politics)"
+    ],
+    "org_facet": ["House of Representatives", "Republican Party"],
+    "per_facet": ["Emmer, Tom", "Johnson, Mike (1972- )"],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25dc-memo-jtzh/25dc-memo-jtzh-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Representative Tom Emmer, who nominated for the speakership on Tuesday only to withdraw hours later, was seen by hard-right Republicans as not supportive enough of former President Donald J. Trump.",
+        "copyright": "Tom Brenner for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25dc-memo-jtzh/25dc-memo-jtzh-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Representative Tom Emmer, who nominated for the speakership on Tuesday only to withdraw hours later, was seen by hard-right Republicans as not supportive enough of former President Donald J. Trump.",
+        "copyright": "Tom Brenner for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25dc-memo-jtzh/25dc-memo-jtzh-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Representative Tom Emmer, who nominated for the speakership on Tuesday only to withdraw hours later, was seen by hard-right Republicans as not supportive enough of former President Donald J. Trump.",
+        "copyright": "Tom Brenner for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "us",
+    "subsection": "politics",
+    "title": "G.O.P. Nominates Mike Johnson for Speaker After Spurning Emmer",
+    "abstract": "The selection of the ultraconservative and low-profile Louisianian capped a topsy-turvy day and gave Republicans hope of ending the weekslong deadlock that has paralyzed the House.",
+    "url": "https://www.nytimes.com/2023/10/24/us/politics/house-speaker-election.html",
+    "uri": "nyt://article/8434e824-8424-550c-ac58-d339bfc77ee2",
+    "byline": "By Luke Broadwater, Catie Edmondson and Kayla Guo",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T10:22:21-04:00",
+    "created_date": "2023-10-24T08:49:07-04:00",
+    "published_date": "2023-10-24T08:49:07-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": ["United States Politics and Government"],
+    "org_facet": ["House of Representatives", "Republican Party"],
+    "per_facet": [
+      "Donalds, Byron (1978- )",
+      "Emmer, Tom",
+      "McCarthy, Kevin (1965- )",
+      "Johnson, Mike (1972- )"
+    ],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24dc-cong-vmtq/24dc-cong-vmtq-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The nomination of Representative Tom Emmer, center, for speaker and then his withdrawal hours later had left Republicans scrambling in a chaotic day of reversals.",
+        "copyright": "Haiyun Jiang for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24dc-cong-vmtq/24dc-cong-vmtq-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The nomination of Representative Tom Emmer, center, for speaker and then his withdrawal hours later had left Republicans scrambling in a chaotic day of reversals.",
+        "copyright": "Haiyun Jiang for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24dc-cong-vmtq/24dc-cong-vmtq-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The nomination of Representative Tom Emmer, center, for speaker and then his withdrawal hours later had left Republicans scrambling in a chaotic day of reversals.",
+        "copyright": "Haiyun Jiang for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "briefing",
+    "subsection": "",
+    "title": "Chaos in the House",
+    "abstract": "The Republican Party is in disarray.",
+    "url": "https://www.nytimes.com/2023/10/25/briefing/house-speaker.html",
+    "uri": "nyt://article/db1f2717-543f-5ead-8072-b1d1c5392326",
+    "byline": "By David Leonhardt and Ian Prasad Philbrick",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T10:58:55-04:00",
+    "created_date": "2023-10-25T06:24:24-04:00",
+    "published_date": "2023-10-25T06:24:24-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [],
+    "org_facet": ["House of Representatives", "Republican Party"],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24themorning-promo/24themorning-speaker-jzwf-superJumbo-v2.jpg",
+        "format": "Super Jumbo",
+        "height": 2048,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Members have been using House Ways and Means Committee hearing room for an internal election of a candidate for speakership.",
+        "copyright": "Haiyun Jiang for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24themorning-promo/24themorning-speaker-jzwf-threeByTwoSmallAt2X-v2.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Members have been using House Ways and Means Committee hearing room for an internal election of a candidate for speakership.",
+        "copyright": "Haiyun Jiang for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24themorning-promo/24themorning-speaker-jzwf-thumbLarge-v2.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Members have been using House Ways and Means Committee hearing room for an internal election of a candidate for speakership.",
+        "copyright": "Haiyun Jiang for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "us",
+    "subsection": "politics",
+    "title": "They Legitimized the Myth of a Stolen Election — and Reaped the Rewards",
+    "abstract": "On the day the Capitol was attacked, 139 Republicans in the House voted to dispute the Electoral College count. This is how they got there.",
+    "url": "https://www.nytimes.com/2022/10/03/us/politics/republican-election-objectors.html",
+    "uri": "nyt://article/651d51b1-5093-582a-96e3-bdb93ea3282e",
+    "byline": "By Steve Eder, David D. Kirkpatrick and Mike McIntire",
+    "item_type": "Article",
+    "updated_date": "2022-11-07T10:20:38-05:00",
+    "created_date": "2022-10-03T03:00:12-04:00",
+    "published_date": "2022-10-03T03:00:12-04:00",
+    "material_type_facet": "",
+    "kicker": "Democracy Challenged",
+    "des_facet": [
+      "Project Democracy",
+      "Presidential Election of 2020",
+      "United States Politics and Government",
+      "Storming of the US Capitol (Jan, 2021)",
+      "Conservatism (US Politics)",
+      "Electoral College",
+      "Democracy (Theory and Philosophy)"
+    ],
+    "org_facet": [
+      "Republican Party",
+      "House of Representatives",
+      "Senate",
+      "Democratic Party"
+    ],
+    "per_facet": [
+      "Trump, Donald J",
+      "Biden, Joseph R Jr",
+      "Babin, Brian",
+      "Biggs, Andy (1958- )",
+      "Boebert, Lauren",
+      "Brooks, Morris Jackson",
+      "Budd, Ted (1971- )",
+      "Donalds, Byron (1978- )",
+      "Greene, Marjorie Taylor (1974- )",
+      "Jackson, Ronny L",
+      "Jordan, Jim (1964- )",
+      "Mace, Nancy",
+      "McCarthy, Kevin (1965- )",
+      "Meijer, Peter",
+      "Miller, Mary E (1959- )",
+      "Mooney, Alex X",
+      "Reschenthaler, Guy",
+      "Riggleman, Denver",
+      "Roy, Chip (1972- )",
+      "Wood, L Lin",
+      "Zeldin, Lee M",
+      "Cheney, Liz",
+      "Mullin, Markwayne",
+      "Johnson, Mike (1972- )"
+    ],
+    "geo_facet": ["United States"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/10/05/insider/objectors-insider-promo/objectors-insider-promo-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/05/insider/objectors-insider-promo/objectors-insider-promo-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/05/insider/objectors-insider-promo/objectors-insider-promo-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3CoEiPI"
+  },
+  {
+    "section": "world",
+    "subsection": "middleeast",
+    "title": "A Close Look at Some Key Evidence in the Gaza Hospital Blast",
+    "abstract": "A widely cited missile video does not shed light on what happened, a Times analysis concludes.",
+    "url": "https://www.nytimes.com/2023/10/24/world/middleeast/gaza-hospital-israel-hamas-video.html",
+    "uri": "nyt://article/06cdd00d-bc34-5040-90de-5e6b4c3294cc",
+    "byline": "By Aric Toler, Haley Willis, Riley Mellen, Alexander Cardia, Natalie Reneau, Julian E. Barnes and Christoph Koettl",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T10:12:26-04:00",
+    "created_date": "2023-10-24T23:06:07-04:00",
+    "published_date": "2023-10-24T23:06:07-04:00",
+    "material_type_facet": "",
+    "kicker": "Visual Investigations",
+    "des_facet": [
+      "Gaza Strip (Movie)",
+      "your-feed-visual-investigations",
+      "Missiles and Missile Defense Systems",
+      "vis-video"
+    ],
+    "org_facet": [
+      "Al Ahli Arab Hospital (Gaza Strip)",
+      "Palestinian Islamic Jihad",
+      "Hamas"
+    ],
+    "per_facet": [],
+    "geo_facet": ["Israel"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/11/23/video/23vid-vi-israel-hospital-promo/23vid-vi-israel-hospital-promo-superJumbo.png",
+        "format": "Super Jumbo",
+        "height": 1080,
+        "width": 1620,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": ""
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/11/23/video/23vid-vi-israel-hospital-promo/23vid-vi-israel-hospital-promo-threeByTwoSmallAt2X.png",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": ""
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/11/23/video/23vid-vi-israel-hospital-promo/23vid-vi-israel-hospital-promo-thumbLarge.png",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": ""
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "world",
+    "subsection": "middleeast",
+    "title": "Thirst and Hunger Grow in Besieged Gaza Amid Israeli Bombardment",
+    "abstract": "Residents wait in line for hours for bread and water, with fights sometimes breaking out. The United Nations has called the situation a humanitarian catastrophe.",
+    "url": "https://www.nytimes.com/2023/10/25/world/middleeast/gaza-food-water-siege.html",
+    "uri": "nyt://article/df0b176a-ebfa-5092-a531-9dd432361338",
+    "byline": "By Raja Abdulrahim and Samar Abu Elouf",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T10:05:47-04:00",
+    "created_date": "2023-10-25T10:05:47-04:00",
+    "published_date": "2023-10-25T10:05:47-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Water",
+      "Water Pollution",
+      "Bakeries and Baked Products",
+      "War and Armed Conflicts",
+      "Humanitarian Aid"
+    ],
+    "org_facet": ["Hamas"],
+    "per_facet": [],
+    "geo_facet": [
+      "Gaza Strip",
+      "Egypt",
+      "Israel",
+      "Khan Younis (Gaza Strip)",
+      "Rafah (Gaza Strip)"
+    ],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24gaza-water-01-lpkc/24gaza-water-01-lpkc-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Waiting with jugs to fill up at one of the few water stations still functioning in the southern town of Khan Younis on Tuesday.",
+        "copyright": "Samar Abu Elouf for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24gaza-water-01-lpkc/24gaza-water-01-lpkc-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Waiting with jugs to fill up at one of the few water stations still functioning in the southern town of Khan Younis on Tuesday.",
+        "copyright": "Samar Abu Elouf for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24gaza-water-01-lpkc/24gaza-water-01-lpkc-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Waiting with jugs to fill up at one of the few water stations still functioning in the southern town of Khan Younis on Tuesday.",
+        "copyright": "Samar Abu Elouf for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "podcasts",
+    "subsection": "the-daily",
+    "title": "Why Israel Is Delaying the Ground Invasion",
+    "abstract": "More than two weeks after the attack by Hamas, Israeli troops are still massing near the Gaza border.",
+    "url": "https://www.nytimes.com/2023/10/25/podcasts/the-daily/israel-gaza-invasion.html",
+    "uri": "nyt://article/651b9943-0aee-59b7-a134-69ab6874995b",
+    "byline": "By Sabrina Tavernise, Stella Tan, Asthaa Chaturvedi, Mooj Zadie, Michael Benoist, Liz O. Baylen, Diane Wong, Pat McCusker and Chris Wood",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T06:00:08-04:00",
+    "created_date": "2023-10-25T06:00:08-04:00",
+    "published_date": "2023-10-25T06:00:08-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": ["audio-neutral-informative"],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25DAILY-Israel-glvm/25DAILY-Israel-glvm-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Israeli soldiers during an artillery drill in southern Israel on Monday.",
+        "copyright": "Sergey Ponomarev for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25DAILY-Israel-glvm/25DAILY-Israel-glvm-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Israeli soldiers during an artillery drill in southern Israel on Monday.",
+        "copyright": "Sergey Ponomarev for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25DAILY-Israel-glvm/25DAILY-Israel-glvm-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Israeli soldiers during an artillery drill in southern Israel on Monday.",
+        "copyright": "Sergey Ponomarev for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "world",
+    "subsection": "americas",
+    "title": "Why Hurricane Otis Caught Many By Surprise",
+    "abstract": "Storms don’t normally go from a tropical storm to a Category 5 hurricane in a day.",
+    "url": "https://www.nytimes.com/2023/10/25/world/americas/hurricane-otis-mexico-intensity-surprise.html",
+    "uri": "nyt://article/6548d400-496d-5827-85d5-ffe63d240fd7",
+    "byline": "By Judson Jones",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T10:47:18-04:00",
+    "created_date": "2023-10-25T10:13:53-04:00",
+    "published_date": "2023-10-25T10:13:53-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": ["Hurricanes and Tropical Storms", "Weather", "Satellites"],
+    "org_facet": ["National Hurricane Center"],
+    "per_facet": [],
+    "geo_facet": ["Acapulco (Mexico)"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/autossell/_3x2/_3x2-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1080,
+        "width": 1620,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "CSU/CIRA & NOAA"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/autossell/_3x2/_3x2-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "CSU/CIRA & NOAA"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/autossell/_3x2/_3x2-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "CSU/CIRA & NOAA"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "us",
+    "subsection": "",
+    "title": "Tracking Hurricane Otis",
+    "abstract": "See the likely path and wind arrival times for Otis.",
+    "url": "https://www.nytimes.com/interactive/2023/us/otis-map-path-tracker.html",
+    "uri": "nyt://interactive/18a01b3a-0296-59df-9f97-b52384ec2746",
+    "byline": "By William B. Davis, Madison Dong, John Keefe, Judson Jones and Bea Malsky",
+    "item_type": "Interactive",
+    "updated_date": "2023-10-25T11:23:29-04:00",
+    "created_date": "2023-10-23T10:15:47-04:00",
+    "published_date": "2023-10-23T10:15:47-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": ["Hurricanes and Tropical Storms", "Weather"],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/otis-map-path-tracker-index/otis-map-path-tracker-index-superJumbo-v17.jpg",
+        "format": "Super Jumbo",
+        "height": 1333,
+        "width": 2000,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/otis-map-path-tracker-index/otis-map-path-tracker-index-threeByTwoSmallAt2X-v20.jpeg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/otis-map-path-tracker-index/otis-map-path-tracker-index-thumbLarge-v17.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "world",
+    "subsection": "americas",
+    "title": "A traveler stranded in Acapulco recounts ‘apocalyptic’ conditions.",
+    "abstract": "“It was really terrifying,” said one visitor who was attending a mining convention in the Mexican city.",
+    "url": "https://www.nytimes.com/2023/10/25/world/americas/acapulco-mexico-hurricane-otis-conditions.html",
+    "uri": "nyt://article/e9af1975-7494-553a-ad6f-6d34c7078f35",
+    "byline": "By Derrick Bryson Taylor",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T09:15:00-04:00",
+    "created_date": "2023-10-25T08:12:34-04:00",
+    "published_date": "2023-10-25T08:12:34-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": ["vis-video", "Hurricanes and Tropical Storms"],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": ["Acapulco (Mexico)"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/25vid-Mexico-1441-cover/25vid-Mexico-1441-cover-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1080,
+        "width": 720,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": ""
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/25vid-Mexico-1441-cover/25vid-Mexico-1441-cover-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": ""
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/25vid-Mexico-1441-cover/25vid-Mexico-1441-cover-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": ""
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "technology",
+    "subsection": "",
+    "title": "Sam Bankman-Fried Set to Testify at His Fraud Trial",
+    "abstract": "The FTX founder’s plan to take the witness stand sets up a dramatic few days of testimony at the federal courthouse in Manhattan.",
+    "url": "https://www.nytimes.com/2023/10/25/technology/sam-bankman-fried-testify-fraud-trial.html",
+    "uri": "nyt://article/be9e37ae-4c57-5323-a517-1dd134a1f90d",
+    "byline": "By David Yaffe-Bellany and Matthew Goldstein",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T11:15:52-04:00",
+    "created_date": "2023-10-25T10:40:43-04:00",
+    "published_date": "2023-10-25T10:40:43-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Virtual Currency",
+      "Frauds and Swindling",
+      "Money Laundering",
+      "Witnesses",
+      "Computers and the Internet"
+    ],
+    "org_facet": ["HK FTX Trading Ltd (Futures Exchange)"],
+    "per_facet": ["Bankman-Fried, Sam"],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25SBF-TESTIFY-blvt/25SBF-TESTIFY-blvt-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Sam Bankman-Fried leaving Federal District Court in New York in December.",
+        "copyright": "Brittainy Newman for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25SBF-TESTIFY-blvt/25SBF-TESTIFY-blvt-threeByTwoSmallAt2X-v2.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Sam Bankman-Fried leaving Federal District Court in New York in December.",
+        "copyright": "Brittainy Newman for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25SBF-TESTIFY-blvt/25SBF-TESTIFY-blvt-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Sam Bankman-Fried leaving Federal District Court in New York in December.",
+        "copyright": "Brittainy Newman for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "us",
+    "subsection": "",
+    "title": "With Plea Deals in Georgia Trump Case, Fani Willis Is Building Momentum",
+    "abstract": "The Fulton County district attorney often uses her state’s racketeering law to pressure lower-rung defendants to cooperate and exert pressure on her main targets.",
+    "url": "https://www.nytimes.com/2023/10/25/us/fani-willis-trump-georgia.html",
+    "uri": "nyt://article/ea3ee2cd-e054-5d5c-85d5-b4c6310d7652",
+    "byline": "By Richard Fausset and Danny Hakim",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T05:03:55-04:00",
+    "created_date": "2023-10-25T05:03:55-04:00",
+    "published_date": "2023-10-25T05:03:55-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Georgia Criminal Case Against Trump (2020 Election)",
+      "Racketeering and Racketeers",
+      "Federal Criminal Case Against Trump (2020 Election Case)"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Ellis, Jenna (Attorney)",
+      "Willis, Fani T",
+      "Trump, Donald J"
+    ],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24-nat-georgia-case-tlgq/24-nat-georgia-case-tlgq-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Fani T. Willis, the district attorney of Fulton County, Ga., is riding a wave of momentum from a string of guilty pleas in the election interference case that involves former President Donald J. Trump.",
+        "copyright": "Kenny Holston/The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24-nat-georgia-case-tlgq/24-nat-georgia-case-tlgq-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Fani T. Willis, the district attorney of Fulton County, Ga., is riding a wave of momentum from a string of guilty pleas in the election interference case that involves former President Donald J. Trump.",
+        "copyright": "Kenny Holston/The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24-nat-georgia-case-tlgq/24-nat-georgia-case-tlgq-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Fani T. Willis, the district attorney of Fulton County, Ga., is riding a wave of momentum from a string of guilty pleas in the election interference case that involves former President Donald J. Trump.",
+        "copyright": "Kenny Holston/The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "arts",
+    "subsection": "design",
+    "title": "When the Skyscraper You Hate Blocks the Skyscraper You Love",
+    "abstract": "Views of the Empire State Building are being obscured by a new 860-foot luxury tower rising just blocks away. Should New York regulate its skyline?",
+    "url": "https://www.nytimes.com/2023/10/25/arts/design/empire-state-building-views.html",
+    "uri": "nyt://article/1732c46b-4726-5bff-897e-3a13ddd9ef07",
+    "byline": "By Michael Kimmelman",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T09:18:00-04:00",
+    "created_date": "2023-10-25T05:01:06-04:00",
+    "published_date": "2023-10-25T05:01:06-04:00",
+    "material_type_facet": "",
+    "kicker": "critic’s notebook",
+    "des_facet": ["Architecture", "Real Estate (Commercial)"],
+    "org_facet": ["Empire State Building (Manhattan, NY)"],
+    "per_facet": [],
+    "geo_facet": ["Manhattan (NYC)"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/04/multimedia/00kimmelman-view-vklh/00kimmelman-view-vklh-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1638,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The alley on 28th Street framing the view of the Empire State.",
+        "copyright": "George Etheredge for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/04/multimedia/00kimmelman-view-vklh/00kimmelman-view-vklh-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The alley on 28th Street framing the view of the Empire State.",
+        "copyright": "George Etheredge for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/04/multimedia/00kimmelman-view-vklh/00kimmelman-view-vklh-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The alley on 28th Street framing the view of the Empire State.",
+        "copyright": "George Etheredge for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "world",
+    "subsection": "europe",
+    "title": "As Ukraine War Grinds On, Widows Try to See Life After Loss",
+    "abstract": "Support groups formed to help thousands of new widows see a dual role in healing their nation. “Our society was not ready to face such scale of grief,” one widow said.",
+    "url": "https://www.nytimes.com/2023/10/25/world/europe/ukraine-war-widows.html",
+    "uri": "nyt://article/f119da7a-38df-5a66-b8c5-bc24c7ce3385",
+    "byline": "By Maria Varenikova",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T09:18:46-04:00",
+    "created_date": "2023-10-25T05:01:58-04:00",
+    "published_date": "2023-10-25T05:01:58-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Russian Invasion of Ukraine (2022)",
+      "Death and Dying",
+      "Grief (Emotion)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/22/multimedia/00ukraine-widows-01-glmh/00ukraine-widows-01-glmh-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1366,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Olena Didukh hugging a photograph of her husband, Bohdan Didukh, at his funeral in Lviv in June.",
+        "copyright": "Brendan Hoffman for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/22/multimedia/00ukraine-widows-01-glmh/00ukraine-widows-01-glmh-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Olena Didukh hugging a photograph of her husband, Bohdan Didukh, at his funeral in Lviv in June.",
+        "copyright": "Brendan Hoffman for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/22/multimedia/00ukraine-widows-01-glmh/00ukraine-widows-01-glmh-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Olena Didukh hugging a photograph of her husband, Bohdan Didukh, at his funeral in Lviv in June.",
+        "copyright": "Brendan Hoffman for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "us",
+    "subsection": "",
+    "title": "Hawaii Bribery Scandal Casts a Shadow Over Lahaina’s Ruins",
+    "abstract": "For years, a local businessman paid off officials in exchange for lucrative contracts. The system he exploited has been left largely unchanged.",
+    "url": "https://www.nytimes.com/2023/10/25/us/hawaii-bribery-maui-fires-rebuild.html",
+    "uri": "nyt://article/b12754c7-abbe-5d19-922f-1c6913b6981f",
+    "byline": "By Blaze Lovell",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T10:27:10-04:00",
+    "created_date": "2023-10-25T05:01:07-04:00",
+    "published_date": "2023-10-25T05:01:07-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "internal-open-access",
+      "Government Contracts and Procurement",
+      "Bribery and Kickbacks",
+      "Wildfires"
+    ],
+    "org_facet": [],
+    "per_facet": ["English, J Kalani", "Choy, Milton", "Stant, Stewart Olani"],
+    "geo_facet": ["Hawaii", "Maui County (Hawaii)", "Lahaina (Hawaii)"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/18/multimedia/18choy-09-ztmh/18choy-09-ztmh-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1364,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "In Maui County, the process for awarding no-bid contracts involves just a few officials. ",
+        "copyright": "Phillip Jung for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/18/multimedia/18choy-09-ztmh/18choy-09-ztmh-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "In Maui County, the process for awarding no-bid contracts involves just a few officials. ",
+        "copyright": "Phillip Jung for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/18/multimedia/18choy-09-ztmh/18choy-09-ztmh-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "In Maui County, the process for awarding no-bid contracts involves just a few officials. ",
+        "copyright": "Phillip Jung for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "magazine",
+    "subsection": "",
+    "title": "Can We Save the Redwoods by Helping Them Move?",
+    "abstract": "The largest trees on the planet can’t easily ‘migrate’ — but in a warming world, some humans are helping them try to find new homes.",
+    "url": "https://www.nytimes.com/2023/10/25/magazine/redwoods-assisted-migration.html",
+    "uri": "nyt://article/ec087f8e-3224-5cf8-b0fd-efe2194f9b22",
+    "byline": "By Moises Velasquez-Manoff",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T05:02:38-04:00",
+    "created_date": "2023-10-25T05:02:38-04:00",
+    "published_date": "2023-10-25T05:02:38-04:00",
+    "material_type_facet": "",
+    "kicker": "The Climate Issue",
+    "des_facet": [
+      "Trees and Shrubs",
+      "Forests and Forestry",
+      "Conservation of Resources",
+      "Global Warming",
+      "Endangered and Extinct Species",
+      "Drought"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [
+      "Seattle (Wash)",
+      "Big Sur (Calif)",
+      "California",
+      "Eugene (Ore)",
+      "Sequoia National Park"
+    ],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/29/magazine/29mag-Redwoods-06/29mag-Redwoods-06-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1536,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A giant sequoia growing outside a residence in a suburb of Seattle.",
+        "copyright": "Richard Mosse for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/29/magazine/29mag-Redwoods-06/29mag-Redwoods-06-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A giant sequoia growing outside a residence in a suburb of Seattle.",
+        "copyright": "Richard Mosse for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/29/magazine/29mag-Redwoods-06/29mag-Redwoods-06-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A giant sequoia growing outside a residence in a suburb of Seattle.",
+        "copyright": "Richard Mosse for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "opinion",
+    "subsection": "",
+    "title": "Trump’s Lawyers Are Going Down. Is He?",
+    "abstract": "It’s hard to know what to make of the guilty pleas in Georgia.",
+    "url": "https://www.nytimes.com/2023/10/25/opinion/trump-georgia-guilty-pleas.html",
+    "uri": "nyt://article/503dfe47-68c1-59d8-9dab-fc2f5e243423",
+    "byline": "By David French",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T05:04:07-04:00",
+    "created_date": "2023-10-25T05:04:07-04:00",
+    "published_date": "2023-10-25T05:04:07-04:00",
+    "material_type_facet": "",
+    "kicker": "David French",
+    "des_facet": [
+      "Georgia Criminal Case Against Trump (2020 Election)",
+      "Presidential Election of 2024",
+      "Presidential Election of 2020",
+      "United States Politics and Government",
+      "Elections",
+      "Legal Profession",
+      "Federal Criminal Case Against Trump (2020 Election Case)",
+      "Plea Bargaining"
+    ],
+    "org_facet": ["Republican Party", "National Review"],
+    "per_facet": [
+      "Chesebro, Kenneth",
+      "Ellis, Jenna (Attorney)",
+      "McCarthy, Andrew",
+      "Powell, Sidney (Attorney)",
+      "Willis, Fani T",
+      "Trump, Donald J"
+    ],
+    "geo_facet": ["Fulton County (Ga)"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25french-jbgl/25french-jbgl-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 2048,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The Fulton County courthouse in Atlanta.",
+        "copyright": "Christian Monterrosa/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25french-jbgl/25french-jbgl-threeByTwoSmallAt2X-v2.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The Fulton County courthouse in Atlanta.",
+        "copyright": "Christian Monterrosa/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25french-jbgl/25french-jbgl-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The Fulton County courthouse in Atlanta.",
+        "copyright": "Christian Monterrosa/Agence France-Presse — Getty Images"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "opinion",
+    "subsection": "",
+    "title": "Rishi Sunak Is Trying His Best. He’s Probably Still Doomed.",
+    "abstract": "A sense of fatalism surrounds Britain’s prime minister.",
+    "url": "https://www.nytimes.com/2023/10/25/opinion/rishi-sunak-britain-conservatives.html",
+    "uri": "nyt://article/751d8c1c-0d4e-55f8-8c32-5935dddec6e1",
+    "byline": "By Katy Balls",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T02:22:38-04:00",
+    "created_date": "2023-10-25T01:00:09-04:00",
+    "published_date": "2023-10-25T01:00:09-04:00",
+    "material_type_facet": "",
+    "kicker": "Guest Essay",
+    "des_facet": ["Elections"],
+    "org_facet": [
+      "Conservative Party (Great Britain)",
+      "Labour Party (Great Britain)"
+    ],
+    "per_facet": ["Sunak, Rishi (1980- )", "Starmer, Keir"],
+    "geo_facet": ["Great Britain"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/opinion/25balls/25balls-superJumbo-v2.jpg",
+        "format": "Super Jumbo",
+        "height": 2047,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Mary Turner/Panos Pictures, via Redux"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/opinion/25balls/25balls-threeByTwoSmallAt2X-v3.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Mary Turner/Panos Pictures, via Redux"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/opinion/25balls/25balls-thumbLarge-v3.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Mary Turner/Panos Pictures, via Redux"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "opinion",
+    "subsection": "",
+    "title": "The Palestinian Republic of Fear and Misinformation",
+    "abstract": "As in any tyrannical or fanatical regime, Palestinians who stray from the approved line put themselves at serious risk.",
+    "url": "https://www.nytimes.com/2023/10/24/opinion/palestinian-hamas-misinformation.html",
+    "uri": "nyt://article/1139c33f-875f-5165-8c75-46b3662803f8",
+    "byline": "By Bret Stephens",
+    "item_type": "Article",
+    "updated_date": "2023-10-24T22:50:58-04:00",
+    "created_date": "2023-10-24T19:00:10-04:00",
+    "published_date": "2023-10-24T19:00:10-04:00",
+    "material_type_facet": "",
+    "kicker": "Bret Stephens",
+    "des_facet": [
+      "Israel-Gaza War (2023- )",
+      "Palestinians",
+      "Terrorism",
+      "War and Armed Conflicts",
+      "Newspapers",
+      "News Sources, Confidential Status of",
+      "Human Rights and Human Rights Violations",
+      "Politics and Government"
+    ],
+    "org_facet": [
+      "Al Ahli Arab Hospital (Gaza Strip)",
+      "Hamas",
+      "Palestinian Authority"
+    ],
+    "per_facet": [],
+    "geo_facet": ["Israel", "Gaza Strip", "West Bank"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/multimedia/24stephens1-mjht/24stephens1-mjht-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The aftermath of a blast at the Ahli Arab hospital in Gaza.",
+        "copyright": "Shadi Al-Tabatibi/Agence France-Presse &mdash; Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/multimedia/24stephens1-mjht/24stephens1-mjht-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The aftermath of a blast at the Ahli Arab hospital in Gaza.",
+        "copyright": "Shadi Al-Tabatibi/Agence France-Presse &mdash; Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/multimedia/24stephens1-mjht/24stephens1-mjht-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The aftermath of a blast at the Ahli Arab hospital in Gaza.",
+        "copyright": "Shadi Al-Tabatibi/Agence France-Presse &mdash; Getty Images"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "opinion",
+    "subsection": "",
+    "title": "‘Chaos Doesn’t Scare Me. American Decline Does.’",
+    "abstract": "The Republican Party’s “lunge toward extremism” shows no sign of abating.",
+    "url": "https://www.nytimes.com/2023/10/25/opinion/speaker-house-republican-party.html",
+    "uri": "nyt://article/b6fbb612-8f82-5fa4-aafc-651095b4321c",
+    "byline": "By Thomas B. Edsall",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T05:12:25-04:00",
+    "created_date": "2023-10-25T05:03:51-04:00",
+    "published_date": "2023-10-25T05:03:51-04:00",
+    "material_type_facet": "",
+    "kicker": "Guest Essay",
+    "des_facet": [
+      "United States Politics and Government",
+      "Presidential Election of 2024",
+      "Right-Wing Extremism and Alt-Right",
+      "Presidential Election of 2020",
+      "Polls and Public Opinion",
+      "Democracy (Theory and Philosophy)"
+    ],
+    "org_facet": ["Republican Party"],
+    "per_facet": ["Jordan, Jim (1964- )", "Trump, Donald J"],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25edsall-pkwm/25edsall-pkwm-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Alex Brandon/Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25edsall-pkwm/25edsall-pkwm-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Alex Brandon/Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25edsall-pkwm/25edsall-pkwm-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Alex Brandon/Associated Press"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "us",
+    "subsection": "",
+    "title": "‘We Still Don’t Have Answers’: A Uvalde Mother Is Running for Mayor",
+    "abstract": "After her daughter was killed in a mass shooting in Uvalde, Kimberly Mata-Rubio figured it was time to get answers and help her city heal.",
+    "url": "https://www.nytimes.com/2023/10/25/us/uvalde-mayor-lexi-kimberly-mata-rubio.html",
+    "uri": "nyt://article/203e7eb7-96f4-5a7a-97cd-c9b7a4f65dc4",
+    "byline": "By Edgar Sandoval",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T09:25:39-04:00",
+    "created_date": "2023-10-25T05:02:38-04:00",
+    "published_date": "2023-10-25T05:02:38-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Uvalde, Tex, Shooting (May 24, 2022)",
+      "Elections, Mayors",
+      "Mass Shootings",
+      "Hispanic-Americans",
+      "School Shootings and Armed Attacks",
+      "Gun Control"
+    ],
+    "org_facet": ["Robb Elementary School (Uvalde, Tex)"],
+    "per_facet": ["Rubio, Lexi (2011-22)"],
+    "geo_facet": ["Texas", "Uvalde (Tex)"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25Nat-Uvalde-Mayor-01-kwlt/25Nat-Uvalde-Mayor-01-kwlt-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1366,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Kimberly Mata-Rubio, center, with her family and friends after her mayoral campaign kickoff event in Uvalde.",
+        "copyright": "Tamir Kalifa for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25Nat-Uvalde-Mayor-01-kwlt/25Nat-Uvalde-Mayor-01-kwlt-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Kimberly Mata-Rubio, center, with her family and friends after her mayoral campaign kickoff event in Uvalde.",
+        "copyright": "Tamir Kalifa for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25Nat-Uvalde-Mayor-01-kwlt/25Nat-Uvalde-Mayor-01-kwlt-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Kimberly Mata-Rubio, center, with her family and friends after her mayoral campaign kickoff event in Uvalde.",
+        "copyright": "Tamir Kalifa for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "technology",
+    "subsection": "",
+    "title": "What the U.S. Has Argued in the Google Antitrust Trial",
+    "abstract": "As the government wraps up its case in the landmark monopoly trial, it has built a picture of how Google became dominant in online search — and the harms that it says resulted.",
+    "url": "https://www.nytimes.com/2023/10/25/technology/google-antitrust-trial.html",
+    "uri": "nyt://article/a4ae3f7f-9422-59d3-89ae-ac71354eaf9d",
+    "byline": "By David McCabe, Cecilia Kang and Steve Lohr",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T09:22:56-04:00",
+    "created_date": "2023-10-25T05:02:34-04:00",
+    "published_date": "2023-10-25T05:02:34-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Computers and the Internet",
+      "Search Engines",
+      "Antitrust Laws and Competition Issues",
+      "States (US)",
+      "Attorneys General",
+      "Web Browsers",
+      "Mobile Applications",
+      "Privacy",
+      "Online Advertising"
+    ],
+    "org_facet": [
+      "DuckDuckGo",
+      "Expedia Inc",
+      "Apple Inc",
+      "Google Inc",
+      "Justice Department",
+      "Microsoft Corp",
+      "VRBO.com"
+    ],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/20/multimedia/00google-trial-tzbv/00google-trial-tzbv-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1536,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "In the first antitrust trial of the modern internet era, Google is fighting accusations that it illegally protected a monopoly in online search.",
+        "copyright": "Jim Wilson/The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/20/multimedia/00google-trial-tzbv/00google-trial-tzbv-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "In the first antitrust trial of the modern internet era, Google is fighting accusations that it illegally protected a monopoly in online search.",
+        "copyright": "Jim Wilson/The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/20/multimedia/00google-trial-tzbv/00google-trial-tzbv-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "In the first antitrust trial of the modern internet era, Google is fighting accusations that it illegally protected a monopoly in online search.",
+        "copyright": "Jim Wilson/The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "world",
+    "subsection": "asia",
+    "title": "Gavin Newsom, on Climate Mission to China, Gets an Audience With Xi",
+    "abstract": "The California governor is on a weeklong visit to China aimed at negotiating climate partnerships.",
+    "url": "https://www.nytimes.com/2023/10/25/world/asia/gavin-newsom-china-xi.html",
+    "uri": "nyt://article/93a38e8c-deca-59af-9fb0-8b5d17db3b67",
+    "byline": "By Tiffany May and Shawn Hubler",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T10:55:54-04:00",
+    "created_date": "2023-10-25T08:26:28-04:00",
+    "published_date": "2023-10-25T08:26:28-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "International Relations",
+      "Politics and Government",
+      "United States International Relations",
+      "Governors (US)",
+      "Global Warming"
+    ],
+    "org_facet": [
+      "Asia-Pacific Economic Cooperation",
+      "Communist Party of China",
+      "Global Times"
+    ],
+    "per_facet": ["Newsom, Gavin", "Wang Yi", "Xi Jinping"],
+    "geo_facet": ["California", "China"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25china-newsom-mtjw/25china-newsom-mtjw-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1333,
+        "width": 2000,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Gov. Gavin Newsom of California, left, met with China’s leader, Xi Jinping, at the Great Hall of the People in Beijing. This photograph was released by the governor’s office.",
+        "copyright": "Office of the Governor of California, via Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25china-newsom-mtjw/25china-newsom-mtjw-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Gov. Gavin Newsom of California, left, met with China’s leader, Xi Jinping, at the Great Hall of the People in Beijing. This photograph was released by the governor’s office.",
+        "copyright": "Office of the Governor of California, via Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25china-newsom-mtjw/25china-newsom-mtjw-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Gov. Gavin Newsom of California, left, met with China’s leader, Xi Jinping, at the Great Hall of the People in Beijing. This photograph was released by the governor’s office.",
+        "copyright": "Office of the Governor of California, via Associated Press"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "nyregion",
+    "subsection": "",
+    "title": "New York City Has a Bold Plan to Fix Its Housing Crisis. Will It Work?",
+    "abstract": "A new plan unveiled this month aims to make way for new housing and ease the pressures that drive up rents and home prices. Whether it will work is less clear.",
+    "url": "https://www.nytimes.com/2023/10/25/nyregion/nyc-housing-crisis-plan.html",
+    "uri": "nyt://article/8688acb8-0a8c-5d7a-9cc1-5edce13d1ba5",
+    "byline": "By Mihir Zaveri",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T03:00:11-04:00",
+    "created_date": "2023-10-25T03:00:11-04:00",
+    "published_date": "2023-10-25T03:00:11-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Zoning",
+      "Real Estate and Housing (Residential)",
+      "Affordable Housing",
+      "State Legislatures"
+    ],
+    "org_facet": ["City Council (NYC)"],
+    "per_facet": ["Adams, Eric L"],
+    "geo_facet": ["New York City"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/multimedia/26ny-housing-explainer-gktb/26ny-housing-explainer-gktb-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "New York City is trying to pave the way for more housing, something most experts, politicians and residents agree the city desperately needs.",
+        "copyright": "Anna Watts for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/multimedia/26ny-housing-explainer-gktb/26ny-housing-explainer-gktb-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "New York City is trying to pave the way for more housing, something most experts, politicians and residents agree the city desperately needs.",
+        "copyright": "Anna Watts for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/multimedia/26ny-housing-explainer-gktb/26ny-housing-explainer-gktb-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "New York City is trying to pave the way for more housing, something most experts, politicians and residents agree the city desperately needs.",
+        "copyright": "Anna Watts for The New York Times"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "arts",
+    "subsection": "design",
+    "title": "Mark Rothko at Full Scale, and in Half Light",
+    "abstract": "Sublime and vulgar all at once, his diaphanous stains of color have come together in a once-in-a-generation show in Paris.",
+    "url": "https://www.nytimes.com/2023/10/25/arts/design/mark-rothko-review-paris.html",
+    "uri": "nyt://article/5c8fdea1-9fc3-5036-b3e2-26c6f4f503cb",
+    "byline": "By Jason Farago",
+    "item_type": "Article",
+    "updated_date": "2023-10-25T09:29:05-04:00",
+    "created_date": "2023-10-25T05:02:32-04:00",
+    "published_date": "2023-10-25T05:02:32-04:00",
+    "material_type_facet": "",
+    "kicker": "Art Review",
+    "des_facet": ["Art", "Museums", "Content Type: Personal Profile"],
+    "org_facet": ["Louis Vuitton Foundation for Creation"],
+    "per_facet": ["Arnault, Bernard", "Rothko, Christopher", "Rothko, Mark"],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/multimedia/24rothko-fondation-vuitton-zjqt/24rothko-fondation-vuitton-zjqt-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 2048,
+        "width": 1904,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Mark Rothko’s “No. 14” (1960) at the Fondation Louis Vuitton in Paris.",
+        "copyright": "Kate Rothko Prizel and Christopher Rothko/Adagp, Paris, 2023"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/multimedia/24rothko-fondation-vuitton-zjqt/24rothko-fondation-vuitton-zjqt-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Mark Rothko’s “No. 14” (1960) at the Fondation Louis Vuitton in Paris.",
+        "copyright": "Kate Rothko Prizel and Christopher Rothko/Adagp, Paris, 2023"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2023/10/26/multimedia/24rothko-fondation-vuitton-zjqt/24rothko-fondation-vuitton-zjqt-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Mark Rothko’s “No. 14” (1960) at the Fondation Louis Vuitton in Paris.",
+        "copyright": "Kate Rothko Prizel and Christopher Rothko/Adagp, Paris, 2023"
+      }
+    ],
+    "short_url": ""
+  }
+]

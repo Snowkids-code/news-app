@@ -1,4 +1,17 @@
 .homepage-news-container {
+    margin: 4rem 0;
+}
+
+.homepage-news-wrapper {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+
+    .news-wrapper {
+        cursor: pointer;
+        
+        img {
+            width: 100%;
+        }
+    }
 }
