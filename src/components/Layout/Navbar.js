@@ -14,13 +14,14 @@ function Navbar() {
   };
 
   const handleHomeComp = () => {
-    navigate("/")
-  }
+    navigate("/");
+  };
 
   return (
     <div className="navbar-container">
       <div className="navbar-wrapper">
         <div className="left-container">
+          <img src="/icons/menu.svg" alt="menu" />
           <h1 onClick={handleHomeComp}>NYT</h1>
         </div>
         <ul className="middle-container">

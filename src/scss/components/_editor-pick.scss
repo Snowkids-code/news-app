@@ -4,10 +4,14 @@
   gap: 2rem;
   margin-top: 2rem;
 
+  @media screen and (max-width: 1000px) {
+    grid-template-columns: 1fr;
+  }
+
   .left-wrapper {
     .top-story {
-        cursor: pointer;
-        margin-bottom: 3rem;
+      cursor: pointer;
+      margin-bottom: 3rem;
       img {
         width: 100%;
       }
@@ -18,16 +22,33 @@
       grid-template-columns: repeat(3, 1fr);
       gap: 1rem;
 
+      @media screen and (max-width: 1000px) {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
       .news-wrapper {
         cursor: pointer;
+
+        img {
+          width: 100%;
+
+          @media screen and (max-width: 550px) {
+              height: auto
+          }
+      }
       }
     }
   }
 
   .right-wrapper {
+    @media screen and (max-width: 1000px) {
+      display: none;
+    }
+
     h2 {
       margin-top: 0;
     }
+
     ul {
       padding: 0;
 
