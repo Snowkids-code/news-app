@@ -10,7 +10,7 @@ function Navbar() {
           </div>
           <ul className='middle-container'>
               {NavLinks.map((link) => (
-                  <li>{link.value}</li>
+                  <li key={link.id}>{link.value}</li>
               ))}
           </ul>
           <div className='right-container'>

@@ -10,13 +10,13 @@ const initialState = {
 let modulePrefix = "news";
 
 //get home news
-const getHomeNews = createAsyncThunk(
+export const getHomeNews = createAsyncThunk(
   `${modulePrefix}/get-home-news`,
   async () => {
     try {
       const response = await NewsService.getHomeNews();
       console.log(response);
-      return response;
+      return response.data;
     } catch (error) {
       return error;
     }
