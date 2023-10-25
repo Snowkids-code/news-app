@@ -34,7 +34,7 @@ function EditorPick({ data }) {
           </div>
         </div>
         <div className="right-wrapper">
-          <h2>Latest Business News</h2>
+          <h2>Latest Science News</h2>
           <ul>
             {data.map((news) => (
               <li key={news.title} onClick={() => handleNewsPick(news.url)}>
