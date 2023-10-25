@@ -10,7 +10,7 @@ function EditorPick({ data }) {
       <h1>Editor's Picks</h1>
       <div className="editor-pick-container">
         <div className="left-wrapper">
-          <div className="top-story">
+          <div className="top-story" onClick={() => handleNewsPick(data[0].url)}>
             <img src={data[0].multimedia[0].url} height="526" alt="icon" />
             <p>{data[0].title}</p>
           </div>

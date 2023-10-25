@@ -6,6 +6,10 @@
         display: grid;
         grid-template-columns: 1fr 4fr 1.5fr;
 
+        h1 {
+            cursor: pointer;
+        }
+
         ul {
             @include flex(space-between, center, row);
             padding: 0;
