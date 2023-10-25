@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "value": "Home",
+        "category": "home"
+    },
+    {
+        "id": 2,
+        "value": "Arts",
+        "category": "home"
+    },
+    {
+        "id": 3,
+        "value": "Automobile",
+        "category": "home"
+    },
+    {
+        "id": 4,
+        "value": "Books",
+        "category": "home"
+    },
+    {
+        "id": 5,
+        "value": "Business",
+        "category": "home"
+    },
+    {
+        "id": 6,
+        "value": "Sports",
+        "category": "home"
+    },
+    {
+        "id": 7,
+        "value": "Travel",
+        "category": "home"
+    }
+]

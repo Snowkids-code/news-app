@@ -1,0 +1,21 @@
+.footer-container {
+  @extend .primary-container;
+
+  .footer-wrapper {
+    grid-area: main;
+
+    ul {
+      @include flex(space-between, center, row);
+      padding: 0;
+
+      li {
+        list-style: none;
+      }
+    }
+
+    div {
+      text-align: center;
+      margin-top: 2rem;
+    }
+  }
+}

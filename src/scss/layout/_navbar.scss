@@ -1,0 +1,35 @@
+.navbar-container {
+    @extend .primary-container;
+
+    .navbar-wrapper {
+        grid-area: main;
+        display: grid;
+        grid-template-columns: 1fr 4fr 1.5fr;
+
+        ul {
+            @include flex(space-between, center, row);
+            padding: 0;
+            
+            li {
+                list-style: none;
+                cursor: pointer;
+            }
+        }
+
+        .right-container {
+            @include flex(flex-end, center, row);
+
+            .search-container {
+                @include flex(flex-start, center, row);
+                gap: 0.2rem;
+                border: 1px solid rgb(192, 190, 190);
+                padding: 0.5rem;
+
+                input {
+                    border: none;
+                    outline: none;
+                }
+            }
+        }
+    }
+}
