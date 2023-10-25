@@ -15,7 +15,7 @@ function EditorPick({ data }) {
             <p>{data[0].title}</p>
           </div>
           <div className="editor-stories-wrapper">
-            {data.slice(0, 6).map((news) => (
+            {data?.slice(0, 6).map((news) => (
               <div
                 className="news-wrapper"
                 key={news.title}

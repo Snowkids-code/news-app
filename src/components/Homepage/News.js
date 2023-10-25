@@ -9,7 +9,7 @@ function News({ title, data }) {
     <div className="homepage-news-container">
       <h2>{title}</h2>
       <div className="homepage-news-wrapper">
-        {data.slice(0, 4).map((news) => (
+        {data?.slice(0, 12).map((news) => (
           <div
             className="news-wrapper"
             key={news.title}
@@ -22,7 +22,7 @@ function News({ title, data }) {
               height="256"
             />
             <h3>{news.title}</h3>
-            <p>{news.abstract.slice(0, 100) + "..."}</p>
+            <p>{news.abstract?.slice(0, 100) + "..."}</p>
           </div>
         ))}
       </div>
